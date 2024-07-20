@@ -220,7 +220,7 @@ xmlns:ferc-part="http://www.ferc.gov/form/parts"
                                     first(list({@ferc:OfficersDirectorsName @unit @period = $currentDuration})) 
                                 else 
                                     none,
-                                if list(@ferc:OfficersDirectorsAddress @unit @period = $currentDuration).length > 0
+                                if list({@ferc:OfficersDirectorsAddress @unit @period = $currentDuration}).length > 0
                                     first(list({@ferc:OfficersDirectorsAddress @unit @period = $currentDuration})) 
                                 else 
                                     none,
