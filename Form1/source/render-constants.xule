@@ -44,7 +44,7 @@ constant $prior2Duration = if ($prior2-start == none or $prior-end == none) none
 
 constant $currentYear = if ($current-end == none) none else substring($current-end, 1 , 4)
 constant $priorYear = if ($prior-end == none) none else substring($prior-end, 1, 4)
-constant $monthEndList = if ($month-ends == none) none else $month-ends.split(',')
+constant $monthEndList = if ($month-ends == none) none else $month-ends
 constant $currentMonth = if ($current-end == none) none else substring($current-end, 6, 7)
 
 

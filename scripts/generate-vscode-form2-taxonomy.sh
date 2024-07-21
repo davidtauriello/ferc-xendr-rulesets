@@ -1,0 +1,7 @@
+python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xule/savexuleqnames' --xule-qnames-dir '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/taxonomy/form2' --xule-qnames-format json -f 'https://eCollection.ferc.gov/taxonomy/form2/2024-04-01/form/form2/form-2_2024-04-01.xsd' --noCertificateCheck
+
+python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xule/savexuleqnames' --xule-qnames-dir '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/taxonomy/form6' --xule-qnames-format json -f 'https://eCollection.ferc.gov/taxonomy/form6/2024-04-01/form/form6/form-6_2024-04-01.xsd' --noCertificateCheck
+
+python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xule/savexuleqnames' --xule-qnames-dir '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/taxonomy/form60' --xule-qnames-format json -f 'https://eCollection.ferc.gov/taxonomy/form60/2024-04-01/form/form60/form-60_2024-04-01.xsd' --noCertificateCheck
+
+python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xule/savexuleqnames' --xule-qnames-dir '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/taxonomy/form714' --xule-qnames-format json -f 'https://eCollection.ferc.gov/taxonomy/form714/2024-04-01/form/form714/form-714_2024-04-01.xsd' --noCertificateCheck

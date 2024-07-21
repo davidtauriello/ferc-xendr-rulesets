@@ -1,0 +1,39 @@
+{
+    "http://ferc.gov/form/2024-04-01/types": [
+        {
+            "localName": "formTypeItemType",
+            "type": "Type",
+            "label": "formTypeItemType"
+        },
+        {
+            "localName": "statesOfUnitedStatesItemType",
+            "type": "Type",
+            "label": "statesOfUnitedStatesItemType"
+        },
+        {
+            "localName": "fileItemType",
+            "type": "Type",
+            "label": "fileItemType"
+        },
+        {
+            "localName": "reportPeriodItemType",
+            "type": "Type",
+            "label": "reportPeriodItemType"
+        },
+        {
+            "localName": "formItemType",
+            "type": "Type",
+            "label": "formItemType"
+        },
+        {
+            "localName": "submissionItemType",
+            "type": "Type",
+            "label": "submissionItemType"
+        },
+        {
+            "localName": "scheduleItemType",
+            "type": "Type",
+            "label": "scheduleItemType"
+        }
+    ]
+}
