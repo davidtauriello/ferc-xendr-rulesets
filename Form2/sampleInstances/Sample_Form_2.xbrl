@@ -19049,7 +19049,7 @@ adjustments to future period fuel retention rates</ferc:CitationAuthorizationFor
   <ferc:DueFromOrCreditedByTheTransactionsWithAssociatedAffiliatedCompanies id="f-2061" decimals="INF" contextRef="c-513" unitRef="u-02">24000</ferc:DueFromOrCreditedByTheTransactionsWithAssociatedAffiliatedCompanies>
   <ferc:DueFromOrCreditedByTheTransactionsWithAssociatedAffiliatedCompanies id="f-2065" decimals="INF" contextRef="c-514" unitRef="u-02">441914</ferc:DueFromOrCreditedByTheTransactionsWithAssociatedAffiliatedCompanies>
   <ferc:DueFromOrCreditedByTheTransactionsWithAssociatedAffiliatedCompanies id="f-2067" decimals="INF" contextRef="c-01" unitRef="u-02">1955982</ferc:DueFromOrCreditedByTheTransactionsWithAssociatedAffiliatedCompanies>
-  <ferc:ExplanatoryOfSecuritiesIssuedOrAssumedAndSecuritiesRefundedOrRetiredTextBlock contextRef="c-01">This is a test</ferc:ExplanatoryOfSecuritiesIssuedOrAssumedAndSecuritiesRefundedOrRetiredTextBlock>
+  <!--<ferc:ExplanatoryOfSecuritiesIssuedOrAssumedAndSecuritiesRefundedOrRetiredTextBlock contextRef="c-01">This is a test</ferc:ExplanatoryOfSecuritiesIssuedOrAssumedAndSecuritiesRefundedOrRetiredTextBlock>-->
   <ferc:ExplanatoryOfSecuritiesFinancingAndRefinancingTransactionTextBlock contextRef="c-01">This is a test</ferc:ExplanatoryOfSecuritiesFinancingAndRefinancingTransactionTextBlock>
   <ferc:ExplanatoryOfSecuritiesIssuedAssumedRetiredOrRefundedTextBlock contextRef="c-01">This is a test</ferc:ExplanatoryOfSecuritiesIssuedAssumedRetiredOrRefundedTextBlock>
   <ferc:IdentificationOfSecuritiesIssuedOrAssumedAndSecuritiesRefundedOrRetiredTextBlock contextRef="c-01">This is a test</ferc:IdentificationOfSecuritiesIssuedOrAssumedAndSecuritiesRefundedOrRetiredTextBlock>

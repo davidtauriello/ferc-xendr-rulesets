@@ -7,6 +7,9 @@ python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xendr' --xendr-render -
 
 python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xendr' --xendr-render --noCertificateCheck --xendr-template-set '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/Form2/combined/RenderingTemplates_Form2Q.zip'  -f /Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/Form2/sampleInstances/Sample_Form_3Q_Gas.xbrl --xendr-inline '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/Form2/renderedInstance/Sample_Form_2Q.html'  --xendr-debug
 
+python ~/arelle/Arelle-master/arellecmdline.py --plugin xendr --xendr-compile --xendr-global "./source/render-constants.xule" --xendr-template "./source/Form 2 - 255.1 - Securities Issued or Assumed and Securities Refunded or Retired.html" --xendr-template-set "./compiled/Form 2 - 255.1 - Securities Issued or Assumed and Securities Refunded or Retired.zip"
+
+python ~/arelle/Arelle-master/arellecmdline.py --plugin 'xendr' --xendr-render --noCertificateCheck --xendr-template-set '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/Form2/compiled/Form 2 - 255.1 - Securities Issued or Assumed and Securities Refunded or Retired.zip'  -f /Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/Form2/sampleInstances/Sample_Form_2.xbrl --xendr-inline '/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/Form2/renderedInstance/Form 2 - 255.1 - Securities Issued or Assumed and Securities Refunded or Retired.html'  --xendr-debug --xendr-show-xule-log 
 
 python ~/arelle/Arelle-master/arellecmdline.py --plugin xendr --xendr-compile --xendr-global "./source/render-constants.xule" --xendr-template "./source/Form 2 - 299 - Monthly Quantity _ Revenue Data by Rate Schedule.html" --xendr-template-set "./compiled/Form 2 - 299 - Monthly Quantity _ Revenue Data by Rate Schedule.zip"
 
