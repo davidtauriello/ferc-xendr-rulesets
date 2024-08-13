@@ -14,12 +14,12 @@ xmlns:ferc-part="http://www.ferc.gov/form/parts"
 </head>
 
 <body class="xbrl" id="ScheduleGeneralInformationAbstract">
-        <xule:showif>
+        <xule:showIf>
         if list([covered @concept in list(ferc:ScheduleWaiver, ferc:ScheduleExemption) @ferc:ScheduleRemarksAxis="ScheduleGeneralInformationAbstract"]).length > 0
                 false
         else
                 true
-    </xule:showif>
+    </xule:showIf>
         <table class="schedule-header xbrl" width="100%">
                 <tr>
                         <td class="xbrl">
@@ -233,8 +233,8 @@ xmlns:ferc-part="http://www.ferc.gov/form/parts"
                          </div>
                          <p></p>
                         <xule:replace>
-                                <xule:expression class="hide">if exists([@concept=ferc:DateRespondentWasOrganizedIfNotIncorporated]) 
-                                'Date Respondent was Organized : ' + [@concept=ferc:DateRespondentWasOrganizedIfNotIncorporated].string else ''
+                                <xule:expression class="hide">if exists([@concept=ferc:OrganizationDate]) 
+                                'Date Respondent was Organized : ' + [@concept=ferc:OrganizationDate].string else ''
                                 </xule:expression>
                                 <xule:template-display>
                                 </xule:template-display>
