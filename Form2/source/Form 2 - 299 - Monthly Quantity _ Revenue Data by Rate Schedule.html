@@ -13,7 +13,7 @@ xmlns:ferc-part="http://www.ferc.gov/form/parts"
     <link rel="stylesheet" type="text/css" href="form-template.css"/>
 </head>
 <body class="xbrl" id="ScheduleMonthlyQuantityRevenueDataByRateScheduleAbstract">
-<xule:showif>
+<xule:showIf>
 if list([covered @concept in list(ferc:ScheduleWaiver, ferc:ScheduleExemption) @ferc:ScheduleRemarksAxis="ScheduleMonthlyQuantityRevenueDataByRateScheduleAbstract"]).length > 0
         false
 else
@@ -24,7 +24,7 @@ else
                         true
         else
                 true
-</xule:showif>
+</xule:showIf>
     <table class="schedule-header xbrl" width="100%">
             <tr>
                 <td class="xbrl">
