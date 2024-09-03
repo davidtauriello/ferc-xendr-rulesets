@@ -1,0 +1,59 @@
+{
+    "http://ferc.gov/form/2024-04-01/types": [
+        {
+            "localName": "formTypeItemType",
+            "type": "Type",
+            "label": "formTypeItemType"
+        },
+        {
+            "localName": "ShareholdersReportSubmittedItemType",
+            "type": "Type",
+            "label": "ShareholdersReportSubmittedItemType"
+        },
+        {
+            "localName": "taxTypeItemType",
+            "type": "Type",
+            "label": "taxTypeItemType"
+        },
+        {
+            "localName": "submissionItemType",
+            "type": "Type",
+            "label": "submissionItemType"
+        },
+        {
+            "localName": "scheduleItemType",
+            "type": "Type",
+            "label": "scheduleItemType"
+        },
+        {
+            "localName": "operationItemType",
+            "type": "Type",
+            "label": "operationItemType"
+        },
+        {
+            "localName": "formItemType",
+            "type": "Type",
+            "label": "formItemType"
+        },
+        {
+            "localName": "compressorItemType",
+            "type": "Type",
+            "label": "compressorItemType"
+        },
+        {
+            "localName": "reportPeriodItemType",
+            "type": "Type",
+            "label": "reportPeriodItemType"
+        },
+        {
+            "localName": "statesOfUnitedStatesItemType",
+            "type": "Type",
+            "label": "statesOfUnitedStatesItemType"
+        },
+        {
+            "localName": "fileItemType",
+            "type": "Type",
+            "label": "fileItemType"
+        }
+    ]
+}

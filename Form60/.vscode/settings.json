@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/*.html.xule": false
+    },
+    "xule.namespaces.definitions": [
+        "/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/taxonomy/form60/http-ferc-gov-form-2024-04-01-ferc.json",
+        "/Users/campbellpryde/Documents/GitHub/ferc-xendr-rulesets/taxonomy/form60/http-www-ferc-gov-form-parts.json"
+    ],
+    "xule.autoImports": [
+        "render-constants.xule",
+
+    ],
+    
+}

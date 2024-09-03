@@ -1,0 +1,29 @@
+{
+    "http://ferc.gov/form/2024-04-01/types": [
+        {
+            "localName": "formItemType",
+            "type": "Type",
+            "label": "formItemType"
+        },
+        {
+            "localName": "scheduleItemType",
+            "type": "Type",
+            "label": "scheduleItemType"
+        },
+        {
+            "localName": "submissionItemType",
+            "type": "Type",
+            "label": "submissionItemType"
+        },
+        {
+            "localName": "formTypeItemType",
+            "type": "Type",
+            "label": "formTypeItemType"
+        },
+        {
+            "localName": "reportPeriodItemType",
+            "type": "Type",
+            "label": "reportPeriodItemType"
+        }
+    ]
+}

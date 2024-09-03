@@ -1,0 +1,228 @@
+{
+    "http://www.xbrl.org/2003/instance": [
+        {
+            "localName": "tuple",
+            "type": "Concept",
+            "label": "xbrli:tuple",
+            "isAbstract": "true",
+            "dataType": "anyType"
+        },
+        {
+            "localName": "booleanItemType",
+            "type": "Type",
+            "label": "booleanItemType"
+        },
+        {
+            "localName": "pure",
+            "type": "Unit",
+            "label": "pure"
+        },
+        {
+            "localName": "floatItemType",
+            "type": "Type",
+            "label": "floatItemType"
+        },
+        {
+            "localName": "QNameItemType",
+            "type": "Type",
+            "label": "QNameItemType"
+        },
+        {
+            "localName": "dateTimeItemType",
+            "type": "Type",
+            "label": "dateTimeItemType"
+        },
+        {
+            "localName": "NCNameItemType",
+            "type": "Type",
+            "label": "NCNameItemType"
+        },
+        {
+            "localName": "shares",
+            "type": "Unit",
+            "label": "Share"
+        },
+        {
+            "localName": "unsignedByteItemType",
+            "type": "Type",
+            "label": "unsignedByteItemType"
+        },
+        {
+            "localName": "positiveIntegerItemType",
+            "type": "Type",
+            "label": "positiveIntegerItemType"
+        },
+        {
+            "localName": "tokenItemType",
+            "type": "Type",
+            "label": "tokenItemType"
+        },
+        {
+            "localName": "doubleItemType",
+            "type": "Type",
+            "label": "doubleItemType"
+        },
+        {
+            "localName": "durationItemType",
+            "type": "Type",
+            "label": "durationItemType"
+        },
+        {
+            "localName": "dateItemType",
+            "type": "Type",
+            "label": "dateItemType"
+        },
+        {
+            "localName": "negativeIntegerItemType",
+            "type": "Type",
+            "label": "negativeIntegerItemType"
+        },
+        {
+            "localName": "hexBinaryItemType",
+            "type": "Type",
+            "label": "hexBinaryItemType"
+        },
+        {
+            "localName": "intItemType",
+            "type": "Type",
+            "label": "intItemType"
+        },
+        {
+            "localName": "integerItemType",
+            "type": "Type",
+            "label": "integerItemType"
+        },
+        {
+            "localName": "gYearMonthItemType",
+            "type": "Type",
+            "label": "gYearMonthItemType"
+        },
+        {
+            "localName": "languageItemType",
+            "type": "Type",
+            "label": "languageItemType"
+        },
+        {
+            "localName": "NameItemType",
+            "type": "Type",
+            "label": "NameItemType"
+        },
+        {
+            "localName": "nonPositiveIntegerItemType",
+            "type": "Type",
+            "label": "nonPositiveIntegerItemType"
+        },
+        {
+            "localName": "base64BinaryItemType",
+            "type": "Type",
+            "label": "base64BinaryItemType"
+        },
+        {
+            "localName": "anyURIItemType",
+            "type": "Type",
+            "label": "anyURIItemType"
+        },
+        {
+            "localName": "byteItemType",
+            "type": "Type",
+            "label": "byteItemType"
+        },
+        {
+            "localName": "item",
+            "type": "Concept",
+            "label": "xbrli:item",
+            "isAbstract": "true",
+            "dataType": "anyType"
+        },
+        {
+            "localName": "unsignedIntItemType",
+            "type": "Type",
+            "label": "unsignedIntItemType"
+        },
+        {
+            "localName": "sharesItemType",
+            "type": "Type",
+            "label": "sharesItemType"
+        },
+        {
+            "localName": "nonNegativeIntegerItemType",
+            "type": "Type",
+            "label": "nonNegativeIntegerItemType"
+        },
+        {
+            "localName": "unsignedShortItemType",
+            "type": "Type",
+            "label": "unsignedShortItemType"
+        },
+        {
+            "localName": "shortItemType",
+            "type": "Type",
+            "label": "shortItemType"
+        },
+        {
+            "localName": "decimalItemType",
+            "type": "Type",
+            "label": "decimalItemType"
+        },
+        {
+            "localName": "gYearItemType",
+            "type": "Type",
+            "label": "gYearItemType"
+        },
+        {
+            "localName": "normalizedStringItemType",
+            "type": "Type",
+            "label": "normalizedStringItemType"
+        },
+        {
+            "localName": "stringItemType",
+            "type": "Type",
+            "label": "stringItemType"
+        },
+        {
+            "localName": "pureItemType",
+            "type": "Type",
+            "label": "pureItemType"
+        },
+        {
+            "localName": "gDayItemType",
+            "type": "Type",
+            "label": "gDayItemType"
+        },
+        {
+            "localName": "gMonthItemType",
+            "type": "Type",
+            "label": "gMonthItemType"
+        },
+        {
+            "localName": "monetaryItemType",
+            "type": "Type",
+            "label": "monetaryItemType"
+        },
+        {
+            "localName": "gMonthDayItemType",
+            "type": "Type",
+            "label": "gMonthDayItemType"
+        },
+        {
+            "localName": "longItemType",
+            "type": "Type",
+            "label": "longItemType"
+        },
+        {
+            "localName": "timeItemType",
+            "type": "Type",
+            "label": "timeItemType"
+        },
+        {
+            "localName": "fractionItemType",
+            "type": "Type",
+            "label": "fractionItemType"
+        },
+        {
+            "localName": "unsignedLongItemType",
+            "type": "Type",
+            "label": "unsignedLongItemType"
+        }
+    ]
+}
